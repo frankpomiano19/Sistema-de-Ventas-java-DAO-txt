@@ -1,0 +1,3 @@
+1,Lacteos,-
+2,Perecibles,Caducan
+3,Plasticos,-
